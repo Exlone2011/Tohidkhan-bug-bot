@@ -42,3 +42,30 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
 <a aria-label="Join our chats" href="(https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu)" target="_blank">
     <img alt="whatsapp" src="[https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu)" />
 </p>
+
+
+
+
+
+
+
+# 📫 How to reach me:
+
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917849917350)
+
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/tohid_mewati) 
+
+
+
+
+- 😊 I’m Tohid khan
+- 👦🏻 Age is unknown
+- 👀 I’m interested in Hacking,Programming,Javascript ,bot deployment,python,C...
+- 🌱 Currently a student at unknown
+- 💞️ I’m looking to collaborate on programming ,Linux ,Linux tools development ,WhatsApp bot development...
+- 📫 Email me via tohidkhan9050482152@gmail.com to contact
+- 🤩 Follow me on Instagram https://www.instagram.com/tohidkhan6332/
+- 💬 Text me on telegram https://t.me/tohid_mewati
+- ✉️ Text me on WhatsApp https://wa.me/917849917350
+
+
