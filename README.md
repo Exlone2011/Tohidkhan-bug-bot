@@ -1,14 +1,14 @@
-# Tohidkhan-bug-bot
+# Tohidkhan-bug-bots-zip-files
 
-<h1 align="center">ꪶ𝐓𝐎𝐇𝐈𝐃𝐊𝐇𝐀𝐍 BUG BOT-𝗩1ꫂ<br></h1>
+<h1 align="center">ꪶ𝐓𝐎𝐇𝐈𝐃𝐊𝐇𝐀𝐍 BUG BOTS ZIP FILESꫂ<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg" />
 </p>
 
 
 
-### WhatsApp Bug Bot By `TOHID KHAN`
-Very powerfull & dangerou WhatsApp Bug 🐛 bot. 
+### WhatsApp Bug Bots zip files `MADE BY TOHID KHAN`
+Very powerfull & dangerou WhatsApp Bug 🐛 bots zip files. 
 ### Bot Features
 *⚠️ 1. Bug menu(full crash) 2. Auto status views 3. Auto read chat 4. Auto bio (about) 5. auto recording & typing 6. Always online 7. heroku full antiban 8. Auto block 9. public/private mode ⚠️*
 
@@ -55,10 +55,11 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
 
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/tohid_mewati) 
 
+# ⚡ If you face any problem in deploying the bot then message me here, I will definitely help you inshallah 
 
+ℹ️  <a href="https://github.com/Tohidkhan6332/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/CONNECT-HERE?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
-
-- 😊 I’m Tohid khan
+-😊 I’m Tohid khan
 - 👦🏻 Age is unknown
 - 👀 I’m interested in Hacking,Programming,Javascript ,bot deployment,python,C...
 - 🌱 Currently a student at unknown
