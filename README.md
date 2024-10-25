@@ -57,7 +57,7 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bots zip files.
 
 # ⚡ If you face any problem in deploying the bot then message me here, I will definitely help you inshallah 
 
-ℹ️  <a href="https://github.com/Tohidkhan6332/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/CONNECT-HERE?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+ℹ️  <a href="https://github.com/Tohidkhan6332/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/CONTACT-HERE?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 -😊 I’m Tohid khan
 - 👦🏻 Age is unknown
